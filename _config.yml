@@ -1,11 +1,11 @@
 # Site settings
 author: Adam Dudley
-title: Code the Change
+title: Truthy Juicy
 header-img: img/home-bg.png
 email: dudleyadam@gmail.com
 copyright_name: Adam Dudley
 description: > # this means to ignore newlines until "baseurl:"
-  Code the change you want to see in the world.
+  Compelling and truthful writings about code and life.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  adudley78
