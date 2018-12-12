@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why would a guy in his 40s want to become a software developer?"
-date:       2018-12-12 15:29:38 +0000
+date:       2018-12-12 10:29:38 -0500
 permalink:  why_would_a_guy_in_his_40s_want_to_become_a_software_developer
 ---
 
@@ -30,7 +30,7 @@ Here are my 3 reasons.
 **Today, my favorite newsletter to read is [Hacker Newsletter](https://www.google.com/url?q=https://www.hackernewsletter.com/&sa=D&ust=1544631646143000&usg=AFQjCNGdc9eeiAjzLdLSGsFqucpwLAw28Q).** It’s a once-a-week email with curated articles on technology and programming. I’d been a subscriber for a while before deciding to enroll at Flatiron and every week when HN hit my inbox, I always found myself wanting to know more about programming, to understand what the technical pieces in the newsletter were talking about.
 
 **Over the years I’ve also enjoyed reading biographies** and watching documentaries of the greatest computer technology icons of our time including Bill Gates and Steve Jobs. And, as I grow as a developer, I’m super excited to know more about how the mobile apps, websites, and other software I use frequently are built. 
-****
+
 **Reason #2 -- Continuation**
 
 **From 2006 through the early 2010s, I was mentored** by a sophisticated entrepreneur/executive who had been building and selling software companies since the early 1980s. This valuable mentoring increased my insight into the business of software and technology and played a major role in my professional development.
