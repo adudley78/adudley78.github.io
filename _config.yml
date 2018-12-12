@@ -1,11 +1,11 @@
 # Site settings
 author: Adam Dudley
-title: Truthy Juicy
+title: AvoCodeBro
 header-img: img/home-bg.png
 email: dudleyadam@gmail.com
 copyright_name: Adam Dudley
 description: > # this means to ignore newlines until "baseurl:"
-  Compelling and truthful writings about code and life.
+  Clean code. Clean living.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  adudley78
