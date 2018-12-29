@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What do Legos have to do with iteration basics?"
-date:       2018-12-29 15:20:41 +0000
+date:       2018-12-29 10:20:42 -0500
 permalink:  what_do_legos_have_to_do_with_iteration_basics
 ---
 
@@ -17,6 +17,7 @@ permalink:  what_do_legos_have_to_do_with_iteration_basics
 **The iterative method you choose to use depends** on what you want to do with or to the stored objects. For example, if I’m fine with the original array or hash being returned after each element is operated on then I’ll use #each, however, if I want a new array or hash returned I might use #map or #collect. 
 
 @@Legos.each
+
 @@Legos.map
 
 **In addition to using one of the aforementioned iterators** and depending on what I want to accomplish with my code, I might chain iterative and helper methods together in a way that does something to each object or returns true or false.
