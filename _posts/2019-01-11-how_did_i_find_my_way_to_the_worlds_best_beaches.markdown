@@ -10,7 +10,7 @@ permalink:  how_did_i_find_my_way_to_the_worlds_best_beaches
 
 **So when I began this Ruby CLI project** I looked at the [World’s Best Restaurants CLI app](https://github.com/cjbrock/worlds-best-restaurants-cli-gem) example given in the curriculum at Flatiron, where I’m enrolled in the full-time immersive software engineering program, and shared it with my wife. She said I should do that but with beaches because we love the beach and live at the beach.
 
-**I thought that was a great idea, simple, and doable** but then my serious side kicked in and I thought I should instead do an app that scraped remote job sites. That’s more appropriate domain I thought because it’s more serious and professional and a remote job is an ideal scenario for me when I land a job in this field.
+**I thought that was a great idea, simple, and doable** but then my serious side kicked in and I thought I should instead do an app that scraped remote job sites. That’s a more appropriate domain I thought because it’s more serious and professional and a remote job is an ideal scenario for me when I land a job in this field.
 
 **Naturally, when I do the opposite of what I believe in** I get a less than desirable result. After going through two remote job sites that proved, frustratingly, to not be scrapable, I abandoned that topic and moved on to the original beach idea, which I should have embraced in the first place. (Life Lesson: Always listen to your wife!)
 
