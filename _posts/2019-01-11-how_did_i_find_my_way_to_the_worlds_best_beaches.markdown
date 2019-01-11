@@ -16,7 +16,7 @@ permalink:  how_did_i_find_my_way_to_the_worlds_best_beaches
 
 **So I restarted my project but ran into scraping trouble** yet again with the first best beaches website I chose and had to abandon that one as well. (This whole experience made me wish I had chosen an API as a data source over scraping!) Since I was stuck, I sought help from my cohort lead and he helped me find a site written in a way that would accommodate scraping. 
 
-**Finally, I was ready to build [my CLI app in Ruby]**(https://github.com/adudley78/worlds-best-beaches-cli-project-122018).
+**Finally, I was ready to build** [my CLI app in Ruby](https://github.com/adudley78/worlds-best-beaches-cli-project-122018).
 
 **I began with a module, WorldsBestBeaches**, that contains two classes, Beach and CLI. The CLI class is responsible for delivering the user experience at the command line and the Beach class is responsible for delivering the scraped, objectified beach data to the CLI class. (Refactor opportunity: Create a Scraper class and move all related methods into it.)
 
