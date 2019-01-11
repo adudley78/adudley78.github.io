@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "How did I find my way to the World's Best Beaches?"
-date:       2019-01-11 15:50:28 +0000
+date:       2019-01-11 10:50:29 -0500
 permalink:  how_did_i_find_my_way_to_the_worlds_best_beaches
 ---
 
 
-**I believe in keeping things fun, simple, and low-stress** whenever possible because often my nature takes me in the exact opposite direction and that, I’ve found, is not healthy or productive state for me.
+**I believe in keeping things fun, simple, and low-stress** whenever possible because often my nature takes me in the exact opposite direction and that, I’ve found, is not a healthy or productive state for me.
 
 **So when I began this Ruby CLI project** I looked at the [World’s Best Restaurants CLI app](https://github.com/cjbrock/worlds-best-restaurants-cli-gem) example given in the curriculum at Flatiron, where I’m enrolled in the full-time immersive software engineering program, and shared it with my wife. She said I should do that but with beaches because we love the beach and live at the beach.
 
