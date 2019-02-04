@@ -30,7 +30,9 @@ permalink:  who_or_what_is_barry
 
 **Approach**
 
-**I wrote a web application, in Ruby on the Sinatra framework,** with the intention of following MVC architecture and the single responsibility principle. The app allows users to signup, login, and log out. Logged in users can submit news articles to Barry, a theoretical AI at this juncture, for pseudo-analysis. Each article instance is saved, objectified, persisted in an SQLite database, and then pseudo-analyzed for accuracy, bias, and balance for a randomized score of 1-100%, with the pseudo-score for each article being returned to the user in a dashboard view via a custom pseduo_score_randomizer method I wrote.
+**I wrote a web application, in Ruby on the Sinatra framework,** with the intention of following MVC architecture and the single responsibility principle. The app allows users to signup, login, and log out. Logged in users can submit news articles to Barry, a theoretical AI at this juncture, for pseudo-analysis.
+
+**Each article instance is saved, objectified, persisted** in an SQLite database, and then pseudo-analyzed for accuracy, bias, and balance for a randomized score of 1-100%, with the pseudo-score for each article being returned to the user in a dashboard view via a custom pseduo_score_randomizer method I wrote.
 
 **From their dashboard, a user can easily edit and delete** each article they’ve submitted to Barry as well as look at all the articles Barry has ever pseudo-analyzed. Objects of the class Article belong to a user and objects of the class User has many articles. For each of these classes, there is a corresponding table in the SQLite database and several columns corresponding to the attributes of each class. Instances of each class are persisted and represented as rows in one of the two the SQLite tables.
 
