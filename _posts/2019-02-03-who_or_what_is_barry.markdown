@@ -99,7 +99,7 @@ use RegistrationController
 
 ### Views
 
-**For consistency and clarity, I tried to line up each view folder** and ERB file with their corresponding controller actions and routes. The HTML in the view files is simple and displays wrapped in a CSS layout courtesy of a gem called Corneal, which established my initial folder/file structure, using the minimum possible code to display the desired information because demonstrating design skills was not the purpose of this project. However, I do appreciate visually beautiful and elegant applications, so I am in the process of implementing Twitter’s Bootstrap, a front-end framework, to deliver a basic and appealing design template.
+**For consistency and clarity, I tried to line up each view folder** and ERB file with their corresponding controller actions and routes. The HTML in the view files is simple and displays wrapped in a CSS layout courtesy of a gem called Corneal, which established my initial folder/file structure. I used the minimum possible code to create my views because demonstrating design skills was not the purpose of this project. However, I do appreciate visually beautiful and elegant applications, so I am in the process of implementing Twitter’s Bootstrap, a front-end framework, to deliver a basic and appealing design template.
 
 **In addition to having a lot of fun while building this project,** I also learned some things:
 
