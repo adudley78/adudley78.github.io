@@ -103,7 +103,7 @@ use RegistrationController
 
 **In addition to having a lot of fun while building this project,** I also learned some things:
 
-* Impatience does not pay.TESTING along the way, at each step, does pay in a big way.
+* Impatience does not pay. TESTING along the way, at each step, does pay in a big way.
 * It’s easy to get overwhelmed looking at a project as a whole, so I take the suggestion of Avi Flombaum, a founder of Flatiron and the lecturer in many of the prerecorded lectures we watch as part of the curriculum, which is to, while coding, keep moving the ball down the field, a few yards at a time. Chip away at it. Just think about what I need to do to make the next one or two thing work. Get those things working and move on.
 * Prioritized checklists of to-dos helped massively and created a much-needed sense of clarity and calm. I use [Things](https://culturedcode.com/things/) to be organized and to maintain a clear mind.
 * Writing object associations and collaborations in Ruby manually came slowly to me. This project gave me the opportunity to write those same patterns in pry sessions while testing and I found that I was able to do so with much more proficiency and confidence than I was able to just a few weeks ago. A good feeling!
