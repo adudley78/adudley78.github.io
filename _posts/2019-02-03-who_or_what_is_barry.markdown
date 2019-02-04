@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Who or what is Barry?"
-date:       2019-02-04 00:52:09 +0000
+date:       2019-02-03 19:52:10 -0500
 permalink:  who_or_what_is_barry
 ---
 
@@ -16,7 +16,9 @@ permalink:  who_or_what_is_barry
 
 **I predict that just as how today surgeons cannot make incisions** more precise than a robot can, in the future, a journalist will no longer be able to collect and report the news with more precision than an artificial intelligence can. For a time, the AI will need the journalist to oversee its activities and make ethical judgment calls, but eventually, the AI will be able to act completely and unerringly independently.
 
-**Advances in cognitive technologies will make it possible** to solve the aforementioned problems and do no less than revolutionize how news is collected, created, and delivered in a way that helps unify humanity around an exceedingly sophisticated, robust, and reliable news source. I call my agent for achieving this vision [Barry](https://github.com/adudley78/barry), simply because Barry sounds friendly, intelligent, and like someone dependable you can trust and count on to do the right thing. (To me, Barry sounds like a volunteer firefighter, a salt of the earth, straight-shooting midwestern type person with the highest moral character and unshakable values.)
+**Advances in cognitive technologies will make it possible** to solve the aforementioned problems and do no less than revolutionize how news is collected, created, and delivered in a way that helps unify humanity around an exceedingly sophisticated, robust, and reliable news source.
+
+**I call my agent for achieving this vision** [Barry](https://github.com/adudley78/barry), simply because Barry sounds friendly, intelligent, and like someone dependable you can trust and count on to do the right thing. (To me, Barry sounds like a volunteer firefighter, a salt of the earth, straight-shooting midwestern type person with the highest moral character and unshakable values.)
 
 **Imagine a world in which Barry, a centralized artificial intelligence** extended by a global network of AI journalists, makes it possible for everyone, regardless of language, literacy, or location, to have access to the absolute truth about what’s happening in the world. I’m talking about 100% accurate, unbiased, and balanced news for all people, everywhere on this planet and every other planet we decide to settle and live on as well.
 
@@ -97,11 +99,11 @@ use RegistrationController
 
 **In addition to having a lot of fun while building this project,** I also learned some things:
 
-* Impatience does not pay, TESTING along the way, at each step, does in a big way.
-* It’s easy to get overwhelmed looking at a project as a whole, so I take the advice of Avi Flombaum, a co-founder of Flatiron and the lecturer in many of the prerecorded lectures we watch as part of the curriculum, is while coding just keep moving the ball down the field, a few yards at a time, chip away at it. Just think about what I need to do to make the next two thing work.
-* Prioritized checklists of to-dos helped massively and created a much-needed sense of clarity and calm.
-* Writing object associations and collaborations in Ruby manually came slowly to me. This project gave me the opportunity to write those same patterns in pry sessions while testing and I found that I was able to do so with much more proficiency and confidence than I was able to just a few weeks ago. A good feeling for sure!
-* Finally, I reconfirmed how practically minded I am. Building this project around something I’m deeply passionate about and committed to, building Barry, fired me up. I was willing to work much longer, harder, and go deeper than I would on some random idea that I didn’t feel a personal connection to and mission for. That’s just the way I’m wired.  
+* Impatience does not pay.TESTING along the way, at each step, does pay in a big way.
+* It’s easy to get overwhelmed looking at a project as a whole, so I take the suggestion of Avi Flombaum, a founder of Flatiron and the lecturer in many of the prerecorded lectures we watch as part of the curriculum, which is to, while coding, keep moving the ball down the field, a few yards at a time. Chip away at it. Just think about what I need to do to make the next one or two thing work. Get those things working and move on.
+* Prioritized checklists of to-dos helped massively and created a much-needed sense of clarity and calm. I use [Things](https://culturedcode.com/things/) to be organized and to maintain a clear mind.
+* Writing object associations and collaborations in Ruby manually came slowly to me. This project gave me the opportunity to write those same patterns in pry sessions while testing and I found that I was able to do so with much more proficiency and confidence than I was able to just a few weeks ago. A good feeling!
+* Finally, I reconfirmed how practically minded I am. Building this project around something I’m deeply passionate about and committed to, Barry, fired me up. I was willing to work longer and harder and to go deeper than I would on some random idea that I didn’t feel a personal connection to. That’s just the way I’m wired.  
 
 
 **Where I’d like to go next with this project:**
