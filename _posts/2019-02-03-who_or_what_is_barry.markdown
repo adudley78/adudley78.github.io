@@ -20,7 +20,7 @@ permalink:  who_or_what_is_barry
 
 **I call my agent for achieving this vision** [Barry](https://github.com/adudley78/barry), simply because Barry sounds friendly, intelligent, and like someone dependable you can trust and count on to do the right thing. (To me, Barry sounds like a volunteer firefighter, a salt of the earth, straight-shooting midwestern type person with the highest moral character and unshakable values.)
 
-**Imagine a world in which Barry, a centralized artificial intelligence** extended by a global network of AI journalists, makes it possible for everyone, regardless of language, literacy, or location, to have access to the absolute truth about what’s happening in the world. I’m talking about 100% accurate, unbiased, and balanced news for all people, everywhere on this planet and every other planet we decide to settle and live on as well.
+**Imagine a world in which Barry, a centralized artificial intelligence** extended by a global network of AI journalists (JournoBots™️), makes it possible for everyone, regardless of language, literacy, or location, to have access to the absolute truth about what’s happening in the world. I’m talking about 100% accurate, unbiased, and balanced news for all people, everywhere on this planet and every other planet we decide to settle and live on as well.
 
 **Now, I acknowledge this vision is huge and will seem to border on science-fiction** for some who are less initiated to the field of AI and [its capabilities and potential](https://www.ynharari.com/book/21-lessons/). But I believe this (and much more!) will all be possible as the requisite technologies evolve and come alive.
 
