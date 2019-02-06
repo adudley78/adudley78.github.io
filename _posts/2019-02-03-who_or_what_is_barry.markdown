@@ -22,7 +22,7 @@ permalink:  who_or_what_is_barry
 
 **Imagine a world in which Barry, a centralized artificial intelligence** extended by a global network of AI journalists (JournoBots™️), makes it possible for everyone, regardless of language, literacy, or location, to have access to the absolute truth about what’s happening in the world. I’m talking about 100% accurate, unbiased, and balanced news for all people, everywhere on this planet and every other planet we decide to settle and live on as well.
 
-**Now, I acknowledge this vision is huge and will seem to border on science-fiction** for some who are less initiated to the field of AI and [its capabilities and potential](https://www.ynharari.com/book/21-lessons/). But I believe this (and much more!) will all be possible as the requisite technologies evolve and come alive.
+**Now, I acknowledge this vision is huge and will seem to border on science-fiction** for some who are less initiated to AI and [its capabilities and potential](https://www.ynharari.com/book/21-lessons/). But I believe this (and much more!) will all be possible as the nascent field of [computational journalism](http://www.compjournalism.com/) evovles and the requisite technologies including artificial superintelligence come alive.
 
 **All that said, since it’s early in my coding journey,** I lack much of the knowledge and many of the skills necessary to bring my longrange vision for Barry to fruition. I’ll need help from people with specialized knowledge (I’ve already begun recruiting) if I want to make significant progress on this in a reasonable timeframe.
 
