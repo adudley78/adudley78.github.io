@@ -24,10 +24,6 @@ permalink:  who_or_what_is_barry
 
 **Now, I acknowledge this vision is huge and will seem to border on science-fiction** for some who are less initiated to AI and [its capabilities and potential](https://www.ynharari.com/book/21-lessons/). But I believe this (and much more!) will all be possible as the nascent field of [computational journalism](http://www.compjournalism.com/) evovles and the requisite technologies including artificial superintelligence come alive.
 
-**All that said, since it’s early in my coding journey,** I lack much of the knowledge and many of the skills necessary to bring my longrange vision for Barry to fruition. I’ll need help from people with specialized knowledge (I’ve already begun recruiting) if I want to make significant progress on this in a reasonable timeframe.
-
-**What I was able to do now, however, is write an early expression** of a Version 1.0 of Barry, a news article pseudo-analyzer, while meeting the requirements for my second major project for the Flatiron School’s full-time Immersive Software Engineering course in which I am currently enrolled.
-
 **Approach**
 
 **I wrote a web application, in Ruby on the Sinatra framework,** with the intention of following MVC architecture and the single responsibility principle. The app allows users to signup, login, and log out. Logged in users can submit news articles to Barry, a theoretical AI at this juncture, for pseudo-analysis.
