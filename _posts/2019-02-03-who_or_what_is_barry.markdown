@@ -18,7 +18,7 @@ permalink:  who_or_what_is_barry
 
 **Advances in cognitive technologies will make it possible** to solve the aforementioned problems and do no less than revolutionize how news is collected, created, and delivered in a way that helps unify humanity around an exceedingly sophisticated, robust, and reliable news source.
 
-**I call my agent for achieving this vision** [Barry](https://github.com/adudley78/barry), simply because Barry sounds friendly, intelligent, and like someone dependable you can trust and count on to do the right thing. (To me, Barry sounds like a volunteer firefighter, a salt of the earth, straight-shooting midwestern type person with the highest moral character and unshakable values.)
+**I call my agent for achieving this vision** *Barry*, simply because *Barry* sounds friendly, intelligent, and like someone dependable you can trust and count on to do the right thing. (To me, Barry sounds like a volunteer firefighter, a salt of the earth, straight-shooting midwestern type person with the highest moral character and unshakable values.)
 
 **Imagine a world in which Barry, a centralized artificial intelligence** extended by a global network of AI journalists (JournoBots™️), makes it possible for everyone, regardless of language, literacy, or location, to have access to the absolute truth about what’s happening in the world. I’m talking about 100% accurate, unbiased, and balanced news for all people, everywhere on this planet and every other planet we decide to settle and live on as well.
 
@@ -26,7 +26,7 @@ permalink:  who_or_what_is_barry
 
 **Approach**
 
-**I wrote a web application, in Ruby on the Sinatra framework,** with the intention of following MVC architecture and the single responsibility principle. The app allows users to signup, login, and log out. Logged in users can submit news articles to Barry, a theoretical AI at this juncture, for pseudo-analysis.
+**I wrote a web application, in Ruby on the Sinatra framework, which I'm currently rebuilding and expanding on Rails,** with the intention of following MVC architecture and the single responsibility principle. The app allows users to signup, login, and log out. Logged in users can submit news articles to Barry, a theoretical AI at this juncture, for pseudo-analysis.
 
 **Each article instance is saved, objectified, persisted** in an SQLite database, and then pseudo-analyzed for accuracy, bias, and balance for a randomized score of 1-100%, with the pseudo-score for each article being returned to the user in a dashboard view via a custom pseduo_score_randomizer method I wrote.
 
