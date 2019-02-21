@@ -14,4 +14,4 @@ On the other side is frustration! You're stuck, ugly red errors staring you in t
 
 In some moments your seesaw is tipped to the fun side and in others it's tipped to the frustrating side. Sometimes the feeling might be neutral. 
 
-I think you know coding is for you if you're willing to work through the frustration for the reward of fun when things start flowing again.
+I think you know coding is for you if you're willing to work through the frustration for the reward of fun when things start flowing again. Yeah!
