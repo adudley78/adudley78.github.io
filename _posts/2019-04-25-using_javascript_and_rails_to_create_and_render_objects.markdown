@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using JavaScript and Rails to create and render objects"
-date:       2019-04-25 13:09:18 +0000
+date:       2019-04-25 09:09:19 -0400
 permalink:  using_javascript_and_rails_to_create_and_render_objects
 ---
 
@@ -16,7 +16,8 @@ permalink:  using_javascript_and_rails_to_create_and_render_objects
 
 **Step 1: Hijack the default Rails form submission** to dynamically submit the form through JavaScript and JSON without a page refresh.
 
-`// Hijack form submit event for all forms with id of new_issue (automatic rails id assignment)
+```
+// Hijack form submit event for all forms with id of new_issue (automatic rails id assignment)
 Issue.formSubmitListener = function(){
   $('form#new_issue').on("submit", Issue.formSubmit)
 }
@@ -38,11 +39,13 @@ Issue.formSubmit = function(e){
   // Delegate behavior to prototype
   .success(Issue.success)
   .error(Issue.error)
-}`
+}
+```
 
 **Step 2: Translate JSON responses** from Rails into JS Model Objects the ES6 way thus instantiating a new Project or Issue object 
 
-`function Issue(attributes){
+```
+function Issue(attributes){
   this.description = attributes.description;
   this.id = attributes.id;
 }
@@ -62,11 +65,13 @@ Issue.success = function(json){
 // Build li component using handlebars
 Issue.prototype.$li = function(){
   return $("li#issue_"+this.id)
-}`
+}
+```
 
 **Step 3. Use Handlebars.js templates** in the Project and Issue views to inject that JSON object into the DOM thus dynamically render serialized object relationships on the page without a refresh 
 
-`<script id="issue-template" type="text/x-handlebars-template">
+```
+<script id="issue-template" type="text/x-handlebars-template">
   <li class="issue" id="issue_{{id}}">
     <div class="view">
       <form class="edit_issue" id="edit_issue_{{id}}" action="/projects/<%= @project.id %>/issues/{{id}}" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓">
@@ -83,6 +88,7 @@ Issue.prototype.$li = function(){
       </form>
     </div>
   </li>
-</script>`
+</script>
+```
 
 **It was gratifying to be able to submit forms** and render newly created instances of objects in the DOM without a page refresh. By the end of this phase of the project, I had developed an appreciation for how JS and RoR can work together to deliver a high-quality user experience and also maintaining a sense of separation of concerns throughout the MVC architecture model.
